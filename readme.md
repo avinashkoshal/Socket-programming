@@ -8,4 +8,4 @@ The server is running on port no. 9086 and the client need the port   no. and IP
 # for running the codes
    For compilation -----> javac [program_name].java
                                                    
-                                                   For Execution   -----> java [program_name]
+   For Execution   -----> java [program_name]
